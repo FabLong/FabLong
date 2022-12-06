@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FabLong
+- 👀 I’m interested in learning how to code as a team.
+- 🌱 I’m currently learning Pytorch, Django, Graphene and some other tools soon.
+- 💞️ I’m looking to collaborate on any small fun projects.
+- 📫 How to reach me: fjl32@bath.ac.uk
