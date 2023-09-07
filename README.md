@@ -4,7 +4,7 @@
 [![Follow](https://img.shields.io/github/followers/FabLong?style=social&label=Follow&maxAge=2592000)](https://github.com/FabLong?tab=followers)
 
 
-<p> I'm a second-year computer science student at the University of Bath, UK, on an exciting journey through the world of technology. Join me on this adventure by giving me a follow and staying tuned for where my path leads next. </p>
+<p> I'm a second-year computer science student at the University of Bath, on an exciting journey through the world of technology. Join me on this adventure by giving me a follow and staying tuned for where my path leads next. </p>
 
 
 <h3>Find me here:</h3>
